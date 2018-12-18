@@ -6,10 +6,10 @@ class Home extends Component {
   render() {
     return (
       <div>
-      <CenteredHeader>Hi! I'm Miraz . I'm a software developer based in Dhaka Bangladesh.</CenteredHeader>
+      <CenteredHeader>Hi! I'm Miraz . software developer, in other words, a creative technologist based in Dhaka Bangladesh.</CenteredHeader>
       <p>
-        I'm comfortable throughout the stack, I currently build software for the D Card Solution at the Dhaka Bangladesh.
-         I  loved to build software through cool JavaScript library React js.
+         I currently build software for the D Card Solution at the Dhaka Bangladesh.
+         I  loved to build software through JavaScript,  I'm passionate about problem sloving and technology.
       </p>
       <p>
         ​Outside of code, I like to create in other ways. From
