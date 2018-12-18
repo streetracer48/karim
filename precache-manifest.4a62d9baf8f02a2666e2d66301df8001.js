@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/robot.50bba88a.png"
   },
   {
-    "revision": "bdedd958aa7f56d82fb7",
-    "url": "/miraz/static/css/main.1bf8b502.chunk.css"
+    "revision": "fc3c51fa543e78a26e16",
+    "url": "/miraz/static/css/main.10c3c371.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
     "url": "/miraz/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "7222822ddd1e4d30a275",
-    "url": "/miraz/static/js/1.7222822d.chunk.js"
+    "revision": "04ec2bab327b5f0a5c75",
+    "url": "/miraz/static/js/1.04ec2bab.chunk.js"
   },
   {
     "revision": "b588ace038aa7cde18cb",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "f68daf22466348066558aebc09523dc1",
     "url": "/miraz/static/media/hoffyevents.f68daf22.png"
+  },
+  {
+    "revision": "1d7798153f6a9d0f06f9767454624e84",
+    "url": "/miraz/static/media/book.1d779815.png"
   },
   {
     "revision": "64747f37d8f4ff2bed98cbbdce35ef4a",
@@ -64,8 +68,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/ecommerece.4befa9ee.png"
   },
   {
-    "revision": "bdedd958aa7f56d82fb7",
-    "url": "/miraz/static/js/main.bdedd958.chunk.js"
+    "revision": "fc3c51fa543e78a26e16",
+    "url": "/miraz/static/js/main.fc3c51fa.chunk.js"
   },
   {
     "revision": "ac8c6c5c3660cdb68f5e72f5fc7c069c",
@@ -108,12 +112,12 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/winningmoment.baff2b90.jpg"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
-  },
-  {
     "revision": "f4769f9bdb7466be65088239c12046d1",
     "url": "/miraz/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+  },
+  {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
@@ -124,11 +128,11 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "7222822ddd1e4d30a275",
-    "url": "/miraz/static/css/1.7798f97b.chunk.css"
+    "revision": "04ec2bab327b5f0a5c75",
+    "url": "/miraz/static/css/1.3144e32b.chunk.css"
   },
   {
-    "revision": "4f70cdb77dadaa9919ad9d4a61f644df",
+    "revision": "a7e56ad7c3182f995578e91834be3434",
     "url": "/miraz/index.html"
   }
 ];
