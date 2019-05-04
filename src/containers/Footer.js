@@ -39,7 +39,7 @@ class Footer extends Component {
                   <SocialIcon><a href="mailto:mdmirajulkarim@gmail.com" target="_blank"><FAIcon className="fa fa-envelope fa-fw fa-2x" /></a></SocialIcon>
                   <SocialIcon><a href="https://github.com/streetracer48" target="_blank"><FAIcon className="fa fa-github fa-fw fa-2x" /></a>
                   </SocialIcon>
-                  <SocialIcon><a href="https://linkedin.com/in/wasif-miraz/" target="_blank"><FAIcon className="fa fa-linkedin fa-fw fa-2x" /></a></SocialIcon>
+                  <SocialIcon><a href="https://linkedin.com/in/streetracer/" target="_blank"><FAIcon className="fa fa-linkedin fa-fw fa-2x" /></a></SocialIcon>
                   
                   </SocialIconList>
                 <br />
