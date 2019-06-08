@@ -8,16 +8,17 @@ class Home extends Component {
       <div>
       <CenteredHeader>Hi! I'm Miraz . software developer, in other words, a creative technologist based in Dhaka Bangladesh.</CenteredHeader>
       <p>
-         I currently build software for the D Card Solution at the Dhaka Bangladesh.
+         I currently build software for the Spring Rain LTD at the Dhaka Bangladesh.
          I  loved to build software through JavaScript,  I'm passionate about problem sloving and technology.
+      </p>
+      <p>
+      I am an Engineer meets Designer. With a focus on large scale, high impact, Open Source projects.  I've spent most of my life focused on explored JS for the last few years.  I work almost exclusively in the open, and aim to make almost all of my contributions industry-wide impact.
       </p>
       <p>
         ​Outside of code, I like to create in other ways. From
          photography to travel, long driving , I'm always trying new ways of expressing myself. I also like to meditate, talk to strangers, and run lifestyle experiments.
       </p>
-      <p>
-         Previously, for the short time  I've taught code  to feni computer institute at Students ICT club, served the basic algorithms and c++ basic problem sloving ,  I also hold a 4year diploma engineering  degree in Data telecommunication and network from the Feni computer institute.
-      </p>
+     
     </div>
     );
   }

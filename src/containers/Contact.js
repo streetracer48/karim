@@ -52,7 +52,7 @@ class Contact extends Component {
           </form>
         </FormDiv>
 
-        <EmailMe>Or, just email me directly at <a href="mailto:mdmirajulkarim@gmail.com" target="_blank"><strong>mdmirajulkarim@gmail.com</strong></a>.</EmailMe>
+        <EmailMe>Or, just email me directly at <a href="mailto:mdmirajulkarim@gmail.com" target="_blank"><strong>karimmdmirajul@gmail.com</strong></a>.</EmailMe>
 
         {/* <hr/> */}
         {/* <CenteredHeader><PortButton href="https://drive.google.com/file/d/0B-Wn-csD32OpVmUyVXFVa0JJakE/view" target="_blank">Download My Resume</PortButton></CenteredHeader> */}

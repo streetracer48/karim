@@ -43,14 +43,19 @@ class Code extends Component {
                 <li>JavaScript (ES6)(ES7)</li>
                 <li>React</li>
                 <li>Redux</li>
-                <li>Vue</li>
+                <li>GraphQL</li>
+                <li>Apollo</li>
+                <li>Apollo Client</li>
+                <li>Vue js</li>
                 <li>HTML5</li>
                 <li>CSS3/Sass</li>
                 <li>jQuery</li>
                 <li>AJAX</li>
+                <li>Typescript</li>
                 <li>Bootstrap 4</li>
                 <li>Material-UI</li>
                 <li>Semantic-UI</li>
+                <li>Moment JS</li>
               </ul>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4">
@@ -58,16 +63,20 @@ class Code extends Component {
               <ul>
                 <li>Node.js</li>
                 <li>Express</li>
+                <li>KOA</li>
+                <li>Ruby</li>
+                <li>Ruby on Rails</li>
                 <li>Firebase</li>
-                <li>PHP</li>
                 <li>SQL/NoSQL</li>
                 <li>MongoDB</li>
+                <li>PostgreSQL</li>
                 
               </ul>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4">
               <h5>Other:</h5>
               <ul>
+              <li>Agile Methodology</li>
               <li>C++</li>
               <li>Alogrithms</li>
               <li>Web architecture</li>
@@ -78,6 +87,7 @@ class Code extends Component {
                 <li>Jest & enzyme Testing</li>
                 <li>Photography</li>
                 <li>Driving</li>
+                <li>Table Tennis</li>
               </ul>
             </div>
           </div>

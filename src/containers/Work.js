@@ -114,6 +114,8 @@ class Writing extends Component {
     return (
       <div>
       <CenteredHeader>Recent learning based work:</CenteredHeader>
+
+     
       <PortRow>
           <a rel="noopener noreferrer" href="" target="_blank">
             <CodeThumbnail src={require("../assets/hoffyevents.png")} />
@@ -281,6 +283,40 @@ Authentication  more
               <UsedItem>Express</UsedItem>
               <UsedItem>CSS</UsedItem>
               <UsedItem>Material-UI</UsedItem>
+            </UsedList>
+          </PortAllText>
+        </PortRow>
+        <hr />
+
+        <PortRow>
+          <a rel="noopener noreferrer" href="" target="_blank">
+            <CodeThumbnail src={require("../assets/graphql.png")} />
+          </a>
+          <PortAllText>
+            <PortTitleContainer>
+              <PortTitle>Recipes Share app</PortTitle>
+              <PortButtonContainer>
+                <PortButton rel="noopener noreferrer" href="https://github.com/streetracer48/Graphql-Food" target="_blank">
+                  Demo
+              </PortButton>
+                <PortButton
+                  href="https://github.com/streetracer48/Graphql-Food"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Code
+              </PortButton>
+              </PortButtonContainer>
+            </PortTitleContainer>
+            <PortDescription>
+       
+          </PortDescription>
+            <UsedList>
+              <UsedItem>React.js</UsedItem>
+              <UsedItem>Redux</UsedItem>
+              <UsedItem>Graphql</UsedItem>
+              <UsedItem>Appollo</UsedItem>
+              <UsedItem>MongoDB</UsedItem>
             </UsedList>
           </PortAllText>
         </PortRow>
