@@ -8,8 +8,8 @@ class Home extends Component {
       <div>
       <CenteredHeader>Hi! I'm Miraz . software developer, in other words, a creative technologist based in Dhaka Bangladesh.</CenteredHeader>
       <p>
-         I currently build software for the Spring Rain LTD at the Dhaka Bangladesh.
-         I  loved to build software through JavaScript,  I'm passionate about problem sloving and technology.
+         I currently build software for the Spring Rain IT LTD(http://www.springrainit.com/) at the Dhaka Bangladesh.
+         I  loved to build stuff through code ,  I'm passionate about problem sloving and technology.
       </p>
       <p>
       I am an Engineer meets Designer. With a focus on large scale, high impact, Open Source projects.  I've spent most of my life focused on explored JS for the last few years.  I work almost exclusively in the open, and aim to make almost all of my contributions industry-wide impact.

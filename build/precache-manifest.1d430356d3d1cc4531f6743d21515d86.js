@@ -4,28 +4,36 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/robot.50bba88a.png"
   },
   {
-    "revision": "bdedd958aa7f56d82fb7",
-    "url": "/miraz/static/css/main.1bf8b502.chunk.css"
+    "revision": "b9616fbf9929bd1a9068",
+    "url": "/miraz/static/css/main.756c8e24.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
     "url": "/miraz/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "7222822ddd1e4d30a275",
-    "url": "/miraz/static/js/1.7222822d.chunk.js"
+    "revision": "f5d65309c0bcbe66f4fe",
+    "url": "/miraz/static/js/1.f5d65309.chunk.js"
   },
   {
     "revision": "b588ace038aa7cde18cb",
     "url": "/miraz/static/js/runtime~main.b588ace0.js"
   },
   {
-    "revision": "cc7d09187bed7e8077c8f688038bba3f",
-    "url": "/miraz/static/media/confettiCropped.cc7d0918.jpg"
+    "revision": "ec7b389e7344aed3909dc0c8fad47e67",
+    "url": "/miraz/static/media/me.ec7b389e.jpg"
+  },
+  {
+    "revision": "57904914c8db57b7d4e73eb3288dc2d2",
+    "url": "/miraz/static/media/airalien.57904914.png"
   },
   {
     "revision": "f68daf22466348066558aebc09523dc1",
     "url": "/miraz/static/media/hoffyevents.f68daf22.png"
+  },
+  {
+    "revision": "1d7798153f6a9d0f06f9767454624e84",
+    "url": "/miraz/static/media/book.1d779815.png"
   },
   {
     "revision": "64747f37d8f4ff2bed98cbbdce35ef4a",
@@ -34,6 +42,10 @@ self.__precacheManifest = [
   {
     "revision": "67033d800ca53224db6195131169ba33",
     "url": "/miraz/static/media/emailsurvey.67033d80.png"
+  },
+  {
+    "revision": "d58693763013eb37119c68ace9d6012d",
+    "url": "/miraz/static/media/graphql.d5869376.png"
   },
   {
     "revision": "91820fa3ddb1164663f738bcbf54b496",
@@ -64,8 +76,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/ecommerece.4befa9ee.png"
   },
   {
-    "revision": "bdedd958aa7f56d82fb7",
-    "url": "/miraz/static/js/main.bdedd958.chunk.js"
+    "revision": "b9616fbf9929bd1a9068",
+    "url": "/miraz/static/js/main.b9616fbf.chunk.js"
   },
   {
     "revision": "ac8c6c5c3660cdb68f5e72f5fc7c069c",
@@ -82,6 +94,14 @@ self.__precacheManifest = [
   {
     "revision": "2cfa7f47332f7ae8826214e749ed4d51",
     "url": "/miraz/static/media/desk.2cfa7f47.jpg"
+  },
+  {
+    "revision": "d0f7b0b8b7f4ad81f3253ef64ff79073",
+    "url": "/miraz/static/media/js.d0f7b0b8.jpg"
+  },
+  {
+    "revision": "a0151599be129059b792056d3ade2c95",
+    "url": "/miraz/static/media/tt.a0151599.jpg"
   },
   {
     "revision": "a9ad0a3285a33a171a71c22d7c9a7cda",
@@ -108,10 +128,6 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/winningmoment.baff2b90.jpg"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
-  },
-  {
     "revision": "f4769f9bdb7466be65088239c12046d1",
     "url": "/miraz/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
@@ -120,15 +136,19 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
     "url": "/miraz/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "7222822ddd1e4d30a275",
-    "url": "/miraz/static/css/1.7798f97b.chunk.css"
+    "revision": "f5d65309c0bcbe66f4fe",
+    "url": "/miraz/static/css/1.bb1c36a8.chunk.css"
   },
   {
-    "revision": "4f70cdb77dadaa9919ad9d4a61f644df",
+    "revision": "5ffae6d6a95d2776b2402f5cea50d8b2",
     "url": "/miraz/index.html"
   }
 ];

@@ -46,7 +46,6 @@ class Code extends Component {
                 <li>GraphQL</li>
                 <li>Apollo</li>
                 <li>Apollo Client</li>
-                <li>Vue js</li>
                 <li>HTML5</li>
                 <li>CSS3/Sass</li>
                 <li>jQuery</li>
@@ -76,7 +75,9 @@ class Code extends Component {
             <div className="col-lg-4 col-md-4 col-sm-4">
               <h5>Other:</h5>
               <ul>
+              <li>Jira</li>
               <li>Agile Methodology</li>
+              <li>KPI</li>
               <li>C++</li>
               <li>Alogrithms</li>
               <li>Web architecture</li>

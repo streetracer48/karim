@@ -39,9 +39,26 @@ class Life extends Component {
               <LifeThumbnail src={require('../assets/desk.jpg')}/>
               <LifeHeader>Home loving my  working desk :)  </LifeHeader>
             </a>
-            <p>
+            {/* <p>
             Home Working desk favorite Sipder man Marvel ps all that inspired me to learn more and create new things!
-              </p>
+              </p> */}
+          </div>
+
+          <div className="col-md-6 col-sm-12">
+            <a href="" target="_blank">
+              <LifeThumbnail src={require('../assets/js.jpg')}/>
+              <LifeHeader>Got chances to speak about jest enzyme at office</LifeHeader>
+            </a>
+            <LifeProjectBlurb></LifeProjectBlurb>
+          </div>
+
+          <div className="col-md-6 col-sm-12">
+            <a href="" target="_blank">
+              <LifeThumbnail src={require('../assets/tt.jpg')}/>
+              <LifeHeader>love to play TT at office :)</LifeHeader>
+            </a>
+            <p>Move your allegiance from your mind to your heart and everything opens up.</p>
+            <LifeProjectBlurb></LifeProjectBlurb>
           </div>
 
         <div className="col-md-6 col-sm-12">
@@ -49,8 +66,7 @@ class Life extends Component {
               <LifeThumbnail src={require('../assets/delhitour6.png')}/>
               <LifeHeader>Colourful Delhi streets</LifeHeader>
             </a>
-            <p>Move your allegiance from your mind to your heart and everything opens up.</p>
-            <LifeProjectBlurb></LifeProjectBlurb>
+           
           </div>
       
           <div className="col-md-6 col-sm-12">

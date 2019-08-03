@@ -32,7 +32,7 @@ class Header extends Component {
     return (
       <HeaderDiv>
         <Link to="/">
-          <ProfileImage src={require('../assets/confettiCropped.jpg')} alt='Mirajul Karim'/>
+          <ProfileImage src={require('../assets/me.jpg')} alt='Mirajul Karim'/>
           <ProfileTitle>Mirajul Karim Miraz</ProfileTitle>
         </Link>
         <div>

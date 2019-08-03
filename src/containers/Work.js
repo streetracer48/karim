@@ -114,7 +114,40 @@ class Writing extends Component {
     return (
       <div>
       <CenteredHeader>Recent learning based work:</CenteredHeader>
+      <PortRow>
+          <a rel="noopener noreferrer" href="" target="_blank">
+            <CodeThumbnail src={require("../assets/airalien.png")} />
+          </a>
+          <PortAllText>
+            <PortTitleContainer>
+              <PortTitle>AirAlien -Rails</PortTitle>
+              <PortButtonContainer>
+                <PortButton rel="noopener noreferrer" href="https://github.com/streetracer48/AirAlien-rails/blob/master/README.md" target="_blank">
+                  Demo
+              </PortButton>
+                <PortButton
+                  href="https://github.com/streetracer48/AirAlien-rails"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Code
+              </PortButton>
+              </PortButtonContainer>
+            </PortTitleContainer>
+            <PortDescription>
+            AirAlien is a platform where hosts, people wanting to rent out their property, and travellers, who avail the rented property, can come and meet each other on the platform.
 
+Travellers can look up all the listings whenever they like, but in order to book any reservation, they have to create an AirAlien profile. Travellers can contact the hosts by filling in an online form that can be found on every listing page. Once they’ve found the right type of property, they can go ahead and submit the reservation form by clicking ‘Book It.’
+          </PortDescription>
+            <UsedList>
+              <UsedItem>Ruby on rails</UsedItem>
+              <UsedItem>Bootstrap</UsedItem>
+              <UsedItem>Sqlite</UsedItem>
+              <UsedItem>Google map API</UsedItem>
+              <UsedItem>facebook API</UsedItem>
+            </UsedList>
+          </PortAllText>
+        </PortRow>
      
       <PortRow>
           <a rel="noopener noreferrer" href="" target="_blank">
