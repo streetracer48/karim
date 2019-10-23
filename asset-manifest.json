@@ -1,14 +1,14 @@
 {
   "main.css": "/miraz/static/css/main.756c8e24.chunk.css",
-  "main.js": "/miraz/static/js/main.48ea7e31.chunk.js",
-  "main.js.map": "/miraz/static/js/main.48ea7e31.chunk.js.map",
+  "main.js": "/miraz/static/js/main.05b7950e.chunk.js",
+  "main.js.map": "/miraz/static/js/main.05b7950e.chunk.js.map",
   "static/css/1.bb1c36a8.chunk.css": "/miraz/static/css/1.bb1c36a8.chunk.css",
   "static/js/1.f5d65309.chunk.js": "/miraz/static/js/1.f5d65309.chunk.js",
   "static/js/1.f5d65309.chunk.js.map": "/miraz/static/js/1.f5d65309.chunk.js.map",
   "runtime~main.js": "/miraz/static/js/runtime~main.b588ace0.js",
   "runtime~main.js.map": "/miraz/static/js/runtime~main.b588ace0.js.map",
   "static/media/delhitour4.png": "/miraz/static/media/delhitour4.6421ef7f.png",
-  "static/media/me.jpg": "/miraz/static/media/me.3ad30c6f.jpg",
+  "static/media/profile.jpg": "/miraz/static/media/profile.df25f042.jpg",
   "static/media/hoffyevents.png": "/miraz/static/media/hoffyevents.f68daf22.png",
   "static/media/book.png": "/miraz/static/media/book.1d779815.png",
   "static/media/myburger.png": "/miraz/static/media/myburger.64747f37.png",
@@ -38,6 +38,6 @@
   "static/css/main.756c8e24.chunk.css.map": "/miraz/static/css/main.756c8e24.chunk.css.map",
   "static/css/1.bb1c36a8.chunk.css.map": "/miraz/static/css/1.bb1c36a8.chunk.css.map",
   "index.html": "/miraz/index.html",
-  "precache-manifest.64a5af0026e4cc3df41954b2f2c2a465.js": "/miraz/precache-manifest.64a5af0026e4cc3df41954b2f2c2a465.js",
+  "precache-manifest.2340fae6f2acfd80e89071c093be8f4a.js": "/miraz/precache-manifest.2340fae6f2acfd80e89071c093be8f4a.js",
   "service-worker.js": "/miraz/service-worker.js"
 }
