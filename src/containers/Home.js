@@ -7,8 +7,8 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>
-          Hi! I'm karim . software developer, in other words, a creative
-          technologist based in Kokkola Finland.
+          Hi! I'm karim, software developer, in other words, a creative
+          technologist based in Finland.
         </CenteredHeader>
         <p>
           before moving Finland I've build software for the Spring Rain IT
