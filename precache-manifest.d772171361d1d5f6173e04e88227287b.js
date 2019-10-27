@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/robot.50bba88a.png"
   },
   {
-    "revision": "3fe1133de0b97b79ad7f",
+    "revision": "5d3daba99ba81fc2102b",
     "url": "/miraz/static/css/main.756c8e24.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/js/runtime~main.b588ace0.js"
   },
   {
-    "revision": "1408bbba0f9547e6ecd473dae66483d1",
-    "url": "/miraz/static/media/profile.1408bbba.jpg"
+    "revision": "bc5597de4ca54fcced5b22b3e9ae0a09",
+    "url": "/miraz/static/media/profile.bc5597de.jpg"
   },
   {
     "revision": "57904914c8db57b7d4e73eb3288dc2d2",
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/ecommerece.4befa9ee.png"
   },
   {
-    "revision": "3fe1133de0b97b79ad7f",
-    "url": "/miraz/static/js/main.3fe1133d.chunk.js"
+    "revision": "5d3daba99ba81fc2102b",
+    "url": "/miraz/static/js/main.5d3daba9.chunk.js"
   },
   {
     "revision": "ac8c6c5c3660cdb68f5e72f5fc7c069c",
@@ -128,16 +128,16 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/winningmoment.baff2b90.jpg"
   },
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/miraz/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/miraz/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/miraz/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/miraz/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/miraz/static/css/1.bb1c36a8.chunk.css"
   },
   {
-    "revision": "74c415a2901419e0a131f89d73ea8472",
+    "revision": "af6d8b04d6c5c92f56dcd3ad3a95cf9e",
     "url": "/miraz/index.html"
   }
 ];
