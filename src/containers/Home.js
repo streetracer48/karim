@@ -7,13 +7,12 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>
-          Hi! I'm karim, software developer, in other words, a creative
-          technologist based in Finland.
+          Hi! I'm karim, Software Engineer, in other words, a creative
+          technologist based in Helisinki, Finland.
         </CenteredHeader>
         <p>
-          before moving Finland I've build software for the Spring Rain IT
-          LTD(http://www.springrainit.com/) at the Dhaka Bangladesh.(where I
-          grow) I loved to build stuff through code , I'm passionate about
+          Currently build software for CSIT Finland OY
+          at Helisinki,Finland. I loved to build stuff through code , I'm passionate about
           problem sloving and technology.
         </p>
         <p>

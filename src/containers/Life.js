@@ -61,6 +61,27 @@ class Life extends Component {
             <LifeProjectBlurb></LifeProjectBlurb>
           </div>
 
+
+          <div className="col-md-6 col-sm-12">
+            <a href="" target="_blank">
+              <LifeThumbnail src={require('../assets/csit2.jpg')}/>
+              <LifeHeader>CSIT Team Lunch :)</LifeHeader>
+            </a>
+            <p>You can't just eat good food. You've got to talk about it, too</p>
+            <LifeProjectBlurb></LifeProjectBlurb>
+          </div>
+
+
+
+          <div className="col-md-6 col-sm-12">
+            <a href="" target="_blank">
+              <LifeThumbnail src={require('../assets/csit.jpg')}/>
+              <LifeHeader>Life at CSIT</LifeHeader>
+            </a>
+            <p>“First, solve the problem. Then, write the code.” – John Johnson</p>
+            <LifeProjectBlurb></LifeProjectBlurb>
+          </div>
+
         <div className="col-md-6 col-sm-12">
             <a href="" target="_blank">
               <LifeThumbnail src={require('../assets/delhitour6.png')}/>
@@ -104,6 +125,13 @@ class Life extends Component {
             </a>
     <LifeProjectBlurb> that moment when my leading team  fci  wining 
 Regional NHSPC programming contest , i missed lot that moment </LifeProjectBlurb>
+          </div>
+          <div className="col-md-6 col-sm-12">
+            <a href="" target="_blank">
+              <LifeThumbnail src={require('../assets/cox.jpg')}/>
+              <LifeHeader>coxs bazar enjoying with beach guy :)  </LifeHeader>
+            </a>
+    <LifeProjectBlurb> Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront </LifeProjectBlurb>
           </div>
         </LifeRow>
         {/*Row 2*/}
