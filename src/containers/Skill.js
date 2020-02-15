@@ -69,26 +69,44 @@ class Code extends Component {
                 <li>SQL/NoSQL</li>
                 <li>MongoDB</li>
                 <li>PostgreSQL</li>
+                <li>Python</li>
+                <li>Django</li>
+              
                 
+                
+              </ul>
+              <h5>DevOps</h5>
+              <ul>
+                <li>AWS</li>
+                <li>Jenkins CI/CD</li>
+                <li>Docker</li>
+                <li>Vagrant</li>
+                <li>GitLab CI</li>
+                          
               </ul>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4">
               <h5>Other:</h5>
               <ul>
+              
+              <li>Microservices</li>
               <li>Jira</li>
+              <li>Kanban</li>
+              <li>Scrum</li>
+              <li>Confluence</li>
+              <li>Trello</li>
               <li>Agile Methodology</li>
               <li>KPI</li>
               <li>C++</li>
               <li>Alogrithms</li>
               <li>Web architecture</li>
-                <li>Git</li>
-                <li>Webpack</li>
+              <li>Git</li>
+              <li>Webpack</li>
                 <li>JSON</li>
                 <li>Rest API</li>
-                <li>Jest & enzyme Testing</li>
-                <li>Photography</li>
-                <li>Driving</li>
-                <li>Table Tennis</li>
+                <li>Jest</li>
+                <li>enzyme</li>
+                
               </ul>
             </div>
           </div>

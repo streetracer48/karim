@@ -39,7 +39,7 @@ class Footer extends Component {
                   <SocialIcon><a href="mailto:mdmirajulkarim@gmail.com" target="_blank"><FAIcon className="fa fa-envelope fa-fw fa-2x" /></a></SocialIcon>
                   <SocialIcon><a href="https://github.com/streetracer48" target="_blank"><FAIcon className="fa fa-github fa-fw fa-2x" /></a>
                   </SocialIcon>
-                  <SocialIcon><a href="https://linkedin.com/in/streetracer/" target="_blank"><FAIcon className="fa fa-linkedin fa-fw fa-2x" /></a></SocialIcon>
+                  <SocialIcon><a href="https://www.linkedin.com/in/mdmirajulkarim/" target="_blank"><FAIcon className="fa fa-linkedin fa-fw fa-2x" /></a></SocialIcon>
                   
                   </SocialIconList>
                 <br />
@@ -47,7 +47,7 @@ class Footer extends Component {
             </div>
             <div className="row" id="copyright" style={{ margin: 0 }}>
               <div className="col-lg-12">
-                <p className="small">© 2018 streetracer</p>
+                <p className="small">© 2020 Karim</p>
               </div>
             </div>
       </FooterDiv>

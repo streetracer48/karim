@@ -55,19 +55,25 @@ class Life extends Component {
           <div className="col-md-6 col-sm-12">
             <a href="" target="_blank">
               <LifeThumbnail src={require('../assets/tt.jpg')}/>
-              <LifeHeader>love to play TT at office :)</LifeHeader>
+              <LifeHeader>Love to play TT at office</LifeHeader>
             </a>
             <p>Move your allegiance from your mind to your heart and everything opens up.</p>
             <LifeProjectBlurb></LifeProjectBlurb>
           </div>
-
+          <div className="col-md-6 col-sm-12">
+            <a href="" target="_blank">
+              <LifeThumbnail src={require('../assets/nature.jpg')}/>
+              <LifeHeader>Nature-loving at Heart</LifeHeader>
+            </a>
+    <LifeProjectBlurb> Nature always wears the colors of the spirit. </LifeProjectBlurb>
+          </div>
 
           <div className="col-md-6 col-sm-12">
             <a href="" target="_blank">
               <LifeThumbnail src={require('../assets/csit2.jpg')}/>
-              <LifeHeader>CSIT Team Lunch :)</LifeHeader>
+              <LifeHeader> Some time we eat together </LifeHeader>
             </a>
-            <p>You can't just eat good food. You've got to talk about it, too</p>
+            <p>"Unity is strength. . . when there is teamwork and collaboration, wonderful things can be achieved." --Mattie Stepanek</p>
             <LifeProjectBlurb></LifeProjectBlurb>
           </div>
 
@@ -121,18 +127,12 @@ class Life extends Component {
           <div className="col-md-6 col-sm-12">
             <a href="" target="_blank">
               <LifeThumbnail src={require('../assets/winningmoment.jpg')}/>
-              <LifeHeader>crazy funny moment and memorialDay 2015 :)  </LifeHeader>
+              <LifeHeader>crazy funny moment and memorial Day back 2015  </LifeHeader>
             </a>
-    <LifeProjectBlurb> that moment when my leading team  fci  wining 
-Regional NHSPC programming contest , i missed lot that moment </LifeProjectBlurb>
+    <LifeProjectBlurb> The moment  when my leading team  fci  won 
+Regional NHSPC programming contest , I still missing the  moment </LifeProjectBlurb>
           </div>
-          <div className="col-md-6 col-sm-12">
-            <a href="" target="_blank">
-              <LifeThumbnail src={require('../assets/cox.jpg')}/>
-              <LifeHeader>coxs bazar enjoying with beach guy :)  </LifeHeader>
-            </a>
-    <LifeProjectBlurb> Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront </LifeProjectBlurb>
-          </div>
+         
         </LifeRow>
         {/*Row 2*/}
         
