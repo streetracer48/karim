@@ -7,18 +7,16 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>
-          Hi! I'm karim, Software Engineer, in other words, a creative
-          technologist based in Helisinki, Finland.
+          Hi! I'm karim, Mission-driven Full-Stack Software Engineer, in other words, a creative
+          technologist. based in Helsinki, Finland.
         </CenteredHeader>
         <p>
-          Currently build software for CSIT Finland OY
-          at Helisinki,Finland. I loved to build stuff through code , I'm passionate about
-          problem sloving and technology.
+          Currently build software for CSIT Finland OY at Helsinki. I am passionate about learning new stuffs and developing products/tools that could create impact on society. 
+          Information Retrieval, Open source projects attracts me a lot.I'm Believer of ‘Roll up your sleeves and get it done.
         </p>
         <p>
           I am an Engineer meets Designer. With a focus on large scale, high
-          impact, Open Source projects. I've spent most of my life focused on
-          explored JS for the last few years. I work almost exclusively in the
+          impact, Open Source projects.I work almost exclusively in the
           open, and aim to make almost all of my contributions industry-wide
           impact.
         </p>

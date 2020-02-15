@@ -18,9 +18,11 @@ const AppDiv = styled.div`
   font-size: 1.15em;
 `;
 
-export const CenteredHeader = styled.h4`
+export const CenteredHeader = styled.h5`
   text-align: center;
   margin-bottom: 1.25em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.15em;
 `
 
 
