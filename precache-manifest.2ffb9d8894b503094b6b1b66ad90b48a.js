@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/blizz2.ac8c6c5c.png"
   },
   {
-    "revision": "231081e40b5aad0cbee1",
-    "url": "/miraz/static/css/main.95bd34e0.chunk.css"
+    "revision": "052161a633982b5c8b0e",
+    "url": "/miraz/static/css/main.dea0df8e.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
     "url": "/miraz/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "f6434e83916937892f3f",
-    "url": "/miraz/static/js/1.f6434e83.chunk.js"
+    "revision": "f479573ef6806ebc5e83",
+    "url": "/miraz/static/js/1.f479573e.chunk.js"
   },
   {
     "revision": "b588ace038aa7cde18cb",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/robot.50bba88a.png"
   },
   {
-    "revision": "231081e40b5aad0cbee1",
-    "url": "/miraz/static/js/main.231081e4.chunk.js"
+    "revision": "052161a633982b5c8b0e",
+    "url": "/miraz/static/js/main.052161a6.chunk.js"
   },
   {
     "revision": "75b34680b8a23deb4fca71fe4f2e6040",
@@ -102,6 +102,10 @@ self.__precacheManifest = [
   {
     "revision": "a0151599be129059b792056d3ade2c95",
     "url": "/miraz/static/media/tt.a0151599.jpg"
+  },
+  {
+    "revision": "f0d898db44af04c0598012b3a1825708",
+    "url": "/miraz/static/media/nature.f0d898db.jpg"
   },
   {
     "revision": "a1685abc792fc587102f0bdf90fce49a",
@@ -136,10 +140,6 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/winningmoment.baff2b90.jpg"
   },
   {
-    "revision": "d7e19b1fd9e60161c423860aac377109",
-    "url": "/miraz/static/media/cox.d7e19b1f.jpg"
-  },
-  {
     "revision": "f4769f9bdb7466be65088239c12046d1",
     "url": "/miraz/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
@@ -156,11 +156,11 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "f6434e83916937892f3f",
-    "url": "/miraz/static/css/1.cef05a5a.chunk.css"
+    "revision": "f479573ef6806ebc5e83",
+    "url": "/miraz/static/css/1.c243b252.chunk.css"
   },
   {
-    "revision": "a6ac59720402716ddda4a77e2068e35c",
+    "revision": "3026a4784824ff1a50b8d788f6a9d133",
     "url": "/miraz/index.html"
   }
 ];
