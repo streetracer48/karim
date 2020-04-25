@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/blizz2.ac8c6c5c.png"
   },
   {
-    "revision": "052161a633982b5c8b0e",
-    "url": "/miraz/static/css/main.dea0df8e.chunk.css"
+    "revision": "2b6b6d0dbf0f12b3db52",
+    "url": "/miraz/static/css/main.35e36686.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
     "url": "/miraz/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "f479573ef6806ebc5e83",
-    "url": "/miraz/static/js/1.f479573e.chunk.js"
+    "revision": "a4d570f88d00c8adff82",
+    "url": "/miraz/static/js/1.a4d570f8.chunk.js"
   },
   {
     "revision": "b588ace038aa7cde18cb",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "57904914c8db57b7d4e73eb3288dc2d2",
     "url": "/miraz/static/media/airalien.57904914.png"
+  },
+  {
+    "revision": "89eab443a9166fe19e79f34113d0d8d5",
+    "url": "/miraz/static/media/dev.89eab443.png"
   },
   {
     "revision": "f68daf22466348066558aebc09523dc1",
@@ -80,8 +84,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/robot.50bba88a.png"
   },
   {
-    "revision": "052161a633982b5c8b0e",
-    "url": "/miraz/static/js/main.052161a6.chunk.js"
+    "revision": "2b6b6d0dbf0f12b3db52",
+    "url": "/miraz/static/js/main.2b6b6d0d.chunk.js"
   },
   {
     "revision": "75b34680b8a23deb4fca71fe4f2e6040",
@@ -144,23 +148,23 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
-  },
-  {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/miraz/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/miraz/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
     "url": "/miraz/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "f479573ef6806ebc5e83",
-    "url": "/miraz/static/css/1.c243b252.chunk.css"
+    "revision": "a4d570f88d00c8adff82",
+    "url": "/miraz/static/css/1.8d8d8a91.chunk.css"
   },
   {
-    "revision": "3026a4784824ff1a50b8d788f6a9d133",
+    "revision": "e389b0c2a192fcd965abe763a500d200",
     "url": "/miraz/index.html"
   }
 ];
