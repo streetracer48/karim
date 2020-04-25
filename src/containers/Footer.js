@@ -36,10 +36,10 @@ class Footer extends Component {
             <div className="row social" style={{ margin: 0 }}>
               <div className="col-lg-12">
                 <SocialIconList>
-                  <SocialIcon><a href="mailto:mdmirajulkarim@gmail.com" target="_blank"><FAIcon className="fa fa-envelope fa-fw fa-2x" /></a></SocialIcon>
+                  <SocialIcon><a href="mailto:karimmdmirajul@gmail.com" target="_blank"><FAIcon className="fa fa-envelope fa-fw fa-2x" /></a></SocialIcon>
                   <SocialIcon><a href="https://github.com/streetracer48" target="_blank"><FAIcon className="fa fa-github fa-fw fa-2x" /></a>
                   </SocialIcon>
-                  <SocialIcon><a href="https://www.linkedin.com/in/mdmirajulkarim/" target="_blank"><FAIcon className="fa fa-linkedin fa-fw fa-2x" /></a></SocialIcon>
+                
                   
                   </SocialIconList>
                 <br />

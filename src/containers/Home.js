@@ -7,7 +7,7 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>
-          Hi! I'm karim, Mission-driven Full-Stack Software Engineer, in other words, a creative
+          Hi! I'm karim, A Full-Stack Software Engineer, in other words, a creative
           technologist. based in Helsinki, Finland.
         </CenteredHeader>
         <p>

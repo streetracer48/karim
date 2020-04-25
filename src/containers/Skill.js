@@ -65,12 +65,13 @@ class Code extends Component {
                 <li>KOA</li>
                 <li>Ruby</li>
                 <li>Ruby on Rails</li>
+                <li>Python</li>
+                <li>Django</li>
                 <li>Firebase</li>
                 <li>SQL/NoSQL</li>
                 <li>MongoDB</li>
                 <li>PostgreSQL</li>
-                <li>Python</li>
-                <li>Django</li>
+                
               
                 
                 
@@ -78,7 +79,19 @@ class Code extends Component {
               <h5>DevOps</h5>
               <ul>
                 <li>AWS</li>
-                <li>Jenkins CI/CD</li>
+                <ul>
+                <li>EC2</li>
+                <li>CI/CD</li>
+                <li>Load Balancers</li>
+                <li>Auto Scaling</li>
+                <li>Elasticbeanstalk</li>
+                <li>Elastic IP</li>
+                <li>ROute53</li>
+                <li>S3</li>
+                <li>IAM</li>
+                <li>RDS</li>
+                </ul>
+                <li>Jenkins</li>
                 <li>Docker</li>
                 <li>Vagrant</li>
                 <li>GitLab CI</li>
@@ -88,7 +101,10 @@ class Code extends Component {
             <div className="col-lg-4 col-md-4 col-sm-4">
               <h5>Other:</h5>
               <ul>
-              
+              <li>C++</li>
+              <li>Alogrithms</li>
+              <li>CSV</li>
+              <li>Web architecture</li>
               <li>Microservices</li>
               <li>Jira</li>
               <li>Kanban</li>
@@ -97,9 +113,6 @@ class Code extends Component {
               <li>Trello</li>
               <li>Agile Methodology</li>
               <li>KPI</li>
-              <li>C++</li>
-              <li>Alogrithms</li>
-              <li>Web architecture</li>
               <li>Git</li>
               <li>Webpack</li>
                 <li>JSON</li>
