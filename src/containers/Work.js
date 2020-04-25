@@ -113,15 +113,12 @@ class Writing extends Component {
   render() {
     return (
       <div>
-      <CenteredHeader>Recent learning based work:</CenteredHeader>
       <PortRow>
           <a rel="noopener noreferrer" href="" target="_blank">
             <CodeThumbnail src={require("../assets/airalien.png")} />
           </a>
           <PortAllText>
-            <PortTitleContainer>
-              <PortTitle>AirAlien -Rails</PortTitle>
-              <PortButtonContainer>
+          <PortButtonContainer>
                 <PortButton rel="noopener noreferrer" href="https://github.com/streetracer48/AirAlien-rails/blob/master/README.md" target="_blank">
                   Demo
               </PortButton>
@@ -133,7 +130,6 @@ class Writing extends Component {
                   Code
               </PortButton>
               </PortButtonContainer>
-            </PortTitleContainer>
             <PortDescription>
             AirAlien is a platform where hosts, people wanting to rent out their property, and travellers, who avail the rented property, can come and meet each other on the platform.
 
@@ -145,6 +141,35 @@ Travellers can look up all the listings whenever they like, but in order to book
               <UsedItem>Sqlite</UsedItem>
               <UsedItem>Google map API</UsedItem>
               <UsedItem>facebook API</UsedItem>
+            </UsedList>
+          </PortAllText>
+        </PortRow>
+      <PortRow>
+          <a rel="noopener noreferrer" href="" target="_blank">
+            <CodeThumbnail src={require("../assets/dev.png")} />
+          </a>
+          <PortAllText>
+            <PortTitleContainer>
+              <PortTitle>Connect With Dev</PortTitle>
+              <PortButtonContainer>
+                <PortButton
+                  href="https://github.com/streetracer48/connectWithDev"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Code 
+              </PortButton>
+              </PortButtonContainer>
+            </PortTitleContainer>
+            <PortDescription>
+            DevCOnnect is a developer  platform where developer throught out the world connect with each other and share their soluations and believes and become friend with each other,it also lets you connect with your senior or junior developer 
+          </PortDescription>
+            <UsedList>
+              <UsedItem>Node Js</UsedItem>
+              <UsedItem>React</UsedItem>
+              <UsedItem>Redux</UsedItem>
+              <UsedItem>Exprees JS</UsedItem>
+              <UsedItem>Mlab</UsedItem>
             </UsedList>
           </PortAllText>
         </PortRow>
