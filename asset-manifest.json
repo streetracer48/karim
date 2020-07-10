@@ -1,7 +1,7 @@
 {
   "main.css": "/miraz/static/css/main.35e36686.chunk.css",
-  "main.js": "/miraz/static/js/main.86f0d055.chunk.js",
-  "main.js.map": "/miraz/static/js/main.86f0d055.chunk.js.map",
+  "main.js": "/miraz/static/js/main.7c36d37e.chunk.js",
+  "main.js.map": "/miraz/static/js/main.7c36d37e.chunk.js.map",
   "static/css/1.8d8d8a91.chunk.css": "/miraz/static/css/1.8d8d8a91.chunk.css",
   "static/js/1.a4d570f8.chunk.js": "/miraz/static/js/1.a4d570f8.chunk.js",
   "static/js/1.a4d570f8.chunk.js.map": "/miraz/static/js/1.a4d570f8.chunk.js.map",
@@ -42,6 +42,6 @@
   "static/css/main.35e36686.chunk.css.map": "/miraz/static/css/main.35e36686.chunk.css.map",
   "static/css/1.8d8d8a91.chunk.css.map": "/miraz/static/css/1.8d8d8a91.chunk.css.map",
   "index.html": "/miraz/index.html",
-  "precache-manifest.fc5378b5baef2ec61fa780d74a50b8b9.js": "/miraz/precache-manifest.fc5378b5baef2ec61fa780d74a50b8b9.js",
+  "precache-manifest.e3daaf5c7bf3ae999139ce27bbb57e8e.js": "/miraz/precache-manifest.e3daaf5c7bf3ae999139ce27bbb57e8e.js",
   "service-worker.js": "/miraz/service-worker.js"
 }
