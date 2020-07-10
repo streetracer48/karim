@@ -63,21 +63,17 @@ class Code extends Component {
                 <li>Node.js</li>
                 <li>Express</li>
                 <li>KOA</li>
-                <li>Ruby</li>
-                <li>Ruby on Rails</li>
                 <li>Python</li>
-                <li>Django</li>
                 <li>Firebase</li>
+                <li>Ruby on Rails (Basic)</li>
                 <li>SQL/NoSQL</li>
-                <li>MongoDB</li>
                 <li>PostgreSQL</li>
-                
-              
                 
                 
               </ul>
               <h5>DevOps</h5>
               <ul>
+              <li>Travis CI</li>
                 <li>AWS</li>
                 <ul>
                 <li>EC2</li>
@@ -93,7 +89,6 @@ class Code extends Component {
                 </ul>
                 <li>Jenkins</li>
                 <li>Docker</li>
-                <li>Vagrant</li>
                 <li>GitLab CI</li>
                           
               </ul>

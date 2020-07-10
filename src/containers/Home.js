@@ -7,18 +7,17 @@ class Home extends Component {
     return (
       <div>
         <CenteredHeader>
-          Hi! I'm karim, A Full-Stack Software Engineer, in other words, a creative
-          technologist. based in Helsinki, Finland.
+           Hi 👋, I'm Karim A Full-stack Software Engineer. based in Helsinki,Finland 🇫🇮.
         </CenteredHeader>
         <p>
-          Currently build software for CSIT Finland OY at Helsinki. I am passionate about learning new stuffs and developing products/tools that could create impact on society. 
-          Information Retrieval, Open source projects attracts me a lot.I'm Believer of ‘Roll up your sleeves and get it done.
+          I'm currently 🎯 on <strong>Node.js</strong>, <strong>TypeScript</strong>,
+          <strong>React</strong>, <strong>Redux</strong>, <strong>Python</strong>, <strong>Next JS</strong>,
+          <strong>NoSQL</strong>, <strong>PostgreSQL</strong>,  <strong>AWS</strong>, and <strong>GraphQL</strong>. Also keeping
+          👀 on  <strong>React-native</strong>, <strong>Docker</strong>,<strong>Kubernetes</strong>, and
+             <strong>Cloud-native ecosystem</strong> with strong interest.
         </p>
         <p>
-          I am an Engineer meets Designer. With a focus on large scale, high
-          impact, Open Source projects.I work almost exclusively in the
-          open, and aim to make almost all of my contributions industry-wide
-          impact.
+        I have been working professionally as a software engineer for 3 years + now. In these years I have helped to create scalable, maintainable, and impactful products in high-volume and fast-paced businesses.
         </p>
         <p>
           ​Outside of code, I like to create in other ways. From photography to
