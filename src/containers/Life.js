@@ -110,20 +110,7 @@ class Life extends Component {
             </a>
             <LifeProjectBlurb>I've missed the place of purpose I found in chalking this photo </LifeProjectBlurb>
           </div>
-          <div className="col-md-6 col-sm-12">
-            <a href="" target="_blank">
-              <LifeThumbnail src={require('../assets/delhitour3.png')}/>
-              <LifeHeader>That is something what really like</LifeHeader>
-            </a>
-            <LifeProjectBlurb> Not just a road it's Runway and art gallery.</LifeProjectBlurb>
-          </div>
-          <div className="col-md-6 col-sm-12">
-            <a href="" target="_blank">
-              <LifeThumbnail src={require('../assets/fly.jpg')}/>
-              <LifeHeader>Nijhum Dwip tour 2016</LifeHeader>
-            </a>
-            <LifeProjectBlurb>Nijhum Dwip is a small beautiful island under Hatiya upazila. It is situated in Noakhali District in Bangladesh.</LifeProjectBlurb>
-          </div>
+        
           <div className="col-md-6 col-sm-12">
             <a href="" target="_blank">
               <LifeThumbnail src={require('../assets/winningmoment.jpg')}/>

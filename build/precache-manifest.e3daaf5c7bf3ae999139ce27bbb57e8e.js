@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/blizz2.ac8c6c5c.png"
   },
   {
-    "revision": "2b6b6d0dbf0f12b3db52",
+    "revision": "7c36d37e0acad2923688",
     "url": "/miraz/static/css/main.35e36686.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/js/runtime~main.b588ace0.js"
   },
   {
-    "revision": "bc5597de4ca54fcced5b22b3e9ae0a09",
-    "url": "/miraz/static/media/profile.bc5597de.jpg"
+    "revision": "145b3fb8a79c6218975ef430e570b9db",
+    "url": "/miraz/static/media/karim.145b3fb8.jpg"
   },
   {
     "revision": "57904914c8db57b7d4e73eb3288dc2d2",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/miraz/static/media/robot.50bba88a.png"
   },
   {
-    "revision": "2b6b6d0dbf0f12b3db52",
-    "url": "/miraz/static/js/main.2b6b6d0d.chunk.js"
+    "revision": "7c36d37e0acad2923688",
+    "url": "/miraz/static/js/main.7c36d37e.chunk.js"
   },
   {
     "revision": "75b34680b8a23deb4fca71fe4f2e6040",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/miraz/static/css/1.8d8d8a91.chunk.css"
   },
   {
-    "revision": "e389b0c2a192fcd965abe763a500d200",
+    "revision": "762773e1a4eac85fc739e1773e38eef6",
     "url": "/miraz/index.html"
   }
 ];

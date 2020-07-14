@@ -1,14 +1,14 @@
 {
   "main.css": "/miraz/static/css/main.35e36686.chunk.css",
-  "main.js": "/miraz/static/js/main.2b6b6d0d.chunk.js",
-  "main.js.map": "/miraz/static/js/main.2b6b6d0d.chunk.js.map",
+  "main.js": "/miraz/static/js/main.7c36d37e.chunk.js",
+  "main.js.map": "/miraz/static/js/main.7c36d37e.chunk.js.map",
   "static/css/1.8d8d8a91.chunk.css": "/miraz/static/css/1.8d8d8a91.chunk.css",
   "static/js/1.a4d570f8.chunk.js": "/miraz/static/js/1.a4d570f8.chunk.js",
   "static/js/1.a4d570f8.chunk.js.map": "/miraz/static/js/1.a4d570f8.chunk.js.map",
   "runtime~main.js": "/miraz/static/js/runtime~main.b588ace0.js",
   "runtime~main.js.map": "/miraz/static/js/runtime~main.b588ace0.js.map",
   "static/media/csit.jpg": "/miraz/static/media/csit.601d89cf.jpg",
-  "static/media/profile.jpg": "/miraz/static/media/profile.bc5597de.jpg",
+  "static/media/karim.jpg": "/miraz/static/media/karim.145b3fb8.jpg",
   "static/media/dev.png": "/miraz/static/media/dev.89eab443.png",
   "static/media/hoffyevents.png": "/miraz/static/media/hoffyevents.f68daf22.png",
   "static/media/book.png": "/miraz/static/media/book.1d779815.png",
@@ -42,6 +42,6 @@
   "static/css/main.35e36686.chunk.css.map": "/miraz/static/css/main.35e36686.chunk.css.map",
   "static/css/1.8d8d8a91.chunk.css.map": "/miraz/static/css/1.8d8d8a91.chunk.css.map",
   "index.html": "/miraz/index.html",
-  "precache-manifest.912343c99f2b05126a3543f97bdd014f.js": "/miraz/precache-manifest.912343c99f2b05126a3543f97bdd014f.js",
+  "precache-manifest.e3daaf5c7bf3ae999139ce27bbb57e8e.js": "/miraz/precache-manifest.e3daaf5c7bf3ae999139ce27bbb57e8e.js",
   "service-worker.js": "/miraz/service-worker.js"
 }
