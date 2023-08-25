@@ -1,2 +1,2 @@
-rn yarn run deploy 
+
 
