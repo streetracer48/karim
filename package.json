@@ -5,11 +5,11 @@
   "homepage": "https://streetracer48.github.io/miraz",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router": "3",
     "react-scripts": "^5.0.1",
-    "styled-components": "^2.4.1"
+    "styled-components": "^6.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
